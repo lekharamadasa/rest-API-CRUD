@@ -1,6 +1,6 @@
 package com.lekha.springboot.cruddemo.dao;
 
-import java.util.List
+import java.util.List;
 
 import com.lekha.springboot.cruddemo.entity.Employee;
 
